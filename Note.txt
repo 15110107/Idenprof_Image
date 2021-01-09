@@ -1,0 +1,4 @@
+idenprof_061-0.7933 :
+chef-1 	  ====> waiter
+chef-169  ====> waiter
+chef-38   ====> farmer
